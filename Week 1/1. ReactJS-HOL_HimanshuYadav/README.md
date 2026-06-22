@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# ReactJS Hands-On Lab 1 (HOL 1)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Candidate Details
 
-## Available Scripts
+- **Name:** Himanshu Yadav
+- **College:** VIT Bhopal University
+- **Program:** B.Tech Computer Science and Engineering (Cyber Security & Digital Forensics)
+- **Week:** 1
+- **Assessment:** ReactJS Hands-On Lab 1 (HOL 1)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Task Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The objective of this hands-on lab was to create a React application named **myfirstreact** and display the following heading on the webpage:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```text
+Welcome to the first session of React
+```
 
-### `npm test`
+The task involved:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Setting up the React development environment
+- Creating a React application using Create React App
+- Understanding the basic structure of a React project
+- Modifying the `App.js` component
+- Running the application locally using Node.js and npm
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ReactJS
+- JavaScript
+- Node.js
+- npm
+- Visual Studio Code
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Application Output
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Output Screenshot 1
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Output 1](screenshots/output1.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Output Screenshot 2
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Output 2](screenshots/output2.png)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Expected Output
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```text
+Welcome to the first session of React
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Learning Outcomes
 
-### Analyzing the Bundle Size
+Through this exercise, I gained practical experience in:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Creating and configuring React applications
+- Understanding React component structure
+- Running React applications locally
+- Working with npm packages and project dependencies
+- Managing project files using Git and GitHub
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Status
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+✅ Task Successfully Completed
